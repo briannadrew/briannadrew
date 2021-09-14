@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briannadrew
 - 👀 I’m interested in too many things to list!
-- 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, & Python.
+- 🌱 I’m currently learning C/C++.
 - 💞️ I’m looking to collaborate on nothing at the moment! Too busy at school :(
 - 📫 How to reach me: <a href="https://twitter.com/bathtimebrianna" target="_blank">@bathtimebrianna</a> on Twitter.
 
