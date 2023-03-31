@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briannadrew
 - 👀 I’m interested in too many things to list!
-- 🌱 I’m currently learning GPSS & C/C++.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on nothing at the moment!
 
 <!---
