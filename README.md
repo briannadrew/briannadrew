@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briannadrew
 - 👀 I’m interested in data analytics, web development, and so much more!
-- 🌱 I’m currently working with OpenAI's ChatGPT API for a school project.
+- 🌱 I’m currently working with OpenAI's ChatGPT API for a project.
 - 💞️ I’m open to work!
 
 <!---
