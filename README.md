@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @briannadrew
-- 👀 I’m interested in too many things to list!
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on nothing at the moment!
+- 👀 I’m interested in data analytics, web development, and so much more!
+- 🌱 I’m currently working with OpenAI's ChatGPT API for a school project.
+- 💞️ I’m open to work!
 
 <!---
 briannadrew/briannadrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
