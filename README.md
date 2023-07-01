@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @briannadrew
 - 👀 I’m interested in data analytics, web development, and so much more!
 - 🌱 I’m currently working with OpenAI's ChatGPT API for a project.
+- 🔤 I have experience with HTML, CSS, JavaScript, PHP, SQL, Python, C#, Java, + more!
 - 💞️ I’m open to work!
 
 <!---
