@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @briannadrew
 - 👀 I’m interested in data science, web development, and so much more!
-- 🌱 I’m currently working with OpenAI's ChatGPT API for a project.
-- 🔤 I have experience with HTML, CSS, JavaScript, PHP, SQL, Python, C#, Java, + more!
-- 💞️ I’m open to work!
+- 🌱 I’m currently working with OpenAI's ChatGPT API for a hackathon project.
+- 🔤 I have experience with HTML, CSS, JavaScript, PHP, SQL, Python, C#, Java, + more.
+- 💞️ I’m currently open to work remotely, or in-person in the Metro Vancouver area, Eastern Ontario, or even Montreal!
 
 <!---
 briannadrew/briannadrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
